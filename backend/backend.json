@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Lattakia",
+        "location" : { "longitude" : 24.40, "latitude" :54.05 },
+        "Pharmacies": [
+            {
+                "name":"أورنينا يازجي",
+                "eng name":"Ornena yazjy",
+                "is duty": true,
+                "days of duty":["Thursday","Friday","Saturday","Sunday","monday","Tuesday","Wednesday"],
+                "Phone": "041445161",
+                "rate": "5.0",
+                "location" : { "longitude" : 24.40, "latitude" :54.05 }
+                
+            },
+            {
+                "name":" الفؤاد",
+                "eng name":"Alfouad",
+                "is duty": true,
+                "days of duty":["Friday","Thursday"],
+                "Phone": "041332813",
+                "rate": "5.0",
+                "location" : { "longitude" : 24, "latitude" : 55}
+            },
+            {
+                "name":" حسن وفيق حسن",
+                "eng name":"Hasan wafeek hasan",
+                "is duty": true,
+                "days of duty":["Friday","monday"],
+                "Phone": "041415855",
+                "rate": "5.0",
+                "location" : { "longitude" : 25, "latitude" :56 }
+            },
+            {
+                "name":"رفيق حمودي",
+                "eng name":"Rafeek Hamoudy",
+                "is duty": true,
+                "days of duty":["Friday","monday"],
+                "Phone": "041413073",
+                "rate": "4.9",
+                "location" : { "longitude" : 25, "latitude" : 54}
+            },
+            {
+                "name":"ريم تجور",
+                "eng name":"Reem Tajour",
+                "is duty": true,
+                "days of duty":["Tuesday","Saturday"],
+                "Phone": "041243545",
+                "rate": "4.7",
+                "location" : { "longitude" :25 , "latitude" :52 }
+            },
+            {
+                "name":"سيزا",
+                "eng name":"Seza",
+                "is duty": true,
+                "days of duty":["Wednesday","Sunday"],
+                "Phone": "0414354867",
+                "rate": "5.0",
+                "location" : { "longitude" :23 , "latitude" :50 }
+            },
+            {
+                "name":"ديما حداد",
+                "eng name":"Dima Hadad",
+                "is duty": true,
+                "days of duty":["Friday","monday"],
+                "Phone": "0412411423",
+                "rate": "4.2",
+                "location" : { "longitude" : 23.65, "latitude" :54.56 }
+            }
+        ]
+    },
+    {
+        "name": "Damascus",
+        "location" : { "longitude" : 28.61, "latitude" : 36.72 },
+        "Pharmacies": [
+            {
+                "name":"قزيز",
+                "eng name":"Qizaz",
+                "is duty": true,
+                "days of duty":["monday","Thursday"],
+                "Phone": "0113334544",
+                "rate": "5.0",
+                "location" : { "longitude" :28.99 , "latitude" :36.99 }
+            },
+            {
+                "name":"ابن الهيثم",
+                "eng name":"Ebn alhaitham",
+                "is duty": true,
+                "days of duty":["Tuesday","Friday","monday"],
+                "Phone": "0112774817",
+                "rate": "5.0",
+                "location" : { "longitude" :26.01 , "latitude" :37.3 }
+            },
+            {
+                "name":"المركزية",
+                "eng name":"the centralized",
+                "is duty": true,
+                "days of duty":["Friday","monday","Saturday","Sunday","Thursday","Tuesday","Wednesday"],
+                "Phone": "0933731790",
+                "rate": "4.7",
+                "location" : { "longitude" :26.54 , "latitude" : 38.32}
+            }
+        ]
+    },
+    {
+        "name": "Aleppo",
+        "location" : { "longitude" : 40.21, "latitude" : 4.46 },
+        "Pharmacies": [
+            {
+                "name":"ابراهيم أدهم",
+                "eng name":"Ebraheem Adham",
+                "is duty": true,
+                "days of duty":["Friday"],
+                "Phone": "0215729690",
+                "rate": "4.9",
+                "location" : { "longitude" : 39.04, "latitude" :4.98 }
+            },
+            {
+                "name":"الباشا",
+                "eng name":"Albasha",
+                "is duty": true,
+                "days of duty":["monday"],
+                "Phone": "0216523981",
+                "rate": "3.9",
+                "location" : { "longitude" : 38.5, "latitude" : 4.9}
+            },
+            {
+                "name":"الجسري",
+                "eng name":"Algisry",
+                "is duty": true,
+                "days of duty":["Thursday","monday","Friday"],
+                "Phone": "0215210049",
+                "rate": "5.0",
+                "location" : { "longitude" :38.70 , "latitude" :5.50 }
+            }
+        ]
+    },
+
+    {
+        "name": "Tartous",
+        "location" : { "longitude" : 11.72 , "latitude" : 20.47 },
+        "Pharmacies": [
+            {
+                "name":"الحمرات",
+                "eng name":"Alhamrat",
+                "is duty": true,
+                "days of duty":["Friday","monday","Thursday"],
+                "Phone": "043322295",
+                "rate": "0.0",
+                "location" : { "longitude" :11.99 , "latitude" : 20.63}
+            },
+            {
+                "name":"الغدير",
+                "eng name":"Alghadeer",
+                "is duty": true,
+                "days of duty":["Friday","monday"],
+                "Phone": "043369730",
+                "rate": "4.0",
+                "location" : { "longitude" : 12, "latitude" :21 }
+            },
+            {
+                "name":"إيفا",
+                "eng name":"Eva",
+                "is duty": true,
+                "days of duty":["monday","Friday","Sunday"],
+                "Phone": "043372501",
+                "rate": "5.0",
+                "location" : { "longitude" :11.1 , "latitude" : 19.3}
+            }
+        ]
+    },
+    {
+        "name": "Daraa",
+        "location" : { "longitude" :7.67 , "latitude" : 8  },
+        "Pharmacies": [
+            {
+                "name":"رهام",
+                "eng name":"Reham",
+                "is duty": true,
+                "days of duty":["monday"],
+                "Phone": "015229111",
+                "rate": "5.0",
+                "location" : { "longitude" :7.82 , "latitude" : 8.1}
+            },
+            {
+                "name":"سهام",
+                "eng name":"Seham",
+                "is duty": true,
+                "days of duty":["Friday","Tuesday"],
+                "Phone": "0966060082",
+                "rate": "4.0",
+                "location" : { "longitude" : 8, "latitude" :8.5 }
+            }
+        ]
+    }
+]
+
